@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjetKotlin</string>
+    <string name="hint_input">Mémo ...</string>
+    <string name="btn_ajouter">Ajouter</string>
+    <string name="details">Details</string>
+</resources>
